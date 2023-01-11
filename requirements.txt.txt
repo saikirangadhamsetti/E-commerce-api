@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-filter
+markdown
+Pillow
+dj_rest_auth
+corsheaders
+djangorestframework-simplejwt

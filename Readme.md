@@ -63,3 +63,7 @@ Here you need to identify the schema/model fields by observing the UIs, The goal
   - Completeness.
 - Please ask us for any hurdle in your problem assignment.
 
+I have created a custom user model 
+And implented jwt authorization for the website on this user model
+and created apis accordingy with the models created from the given photography details
+It took me all extra time to upload all files to git.
